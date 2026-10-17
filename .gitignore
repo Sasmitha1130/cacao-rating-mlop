@@ -1,0 +1,16 @@
+﻿# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local MLflow tracking
+mlflow.db
+mlruns/
+
+# Logs and editor settings
+*.log
+.vscode/
+.streamlit/
+
+# Generated artifacts and temporary files

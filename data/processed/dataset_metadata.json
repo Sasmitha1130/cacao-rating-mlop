@@ -1,0 +1,23 @@
+{
+    "dataset_name": "Flavors of Cacao",
+    "train_shape": [
+        1436,
+        374
+    ],
+    "test_shape": [
+        359,
+        374
+    ],
+    "target": "rating",
+    "numerical_features": [
+        "review_year",
+        "cocoa_percent"
+    ],
+    "categorical_features": [
+        "company",
+        "bar_name",
+        "company_location",
+        "bean_type",
+        "bean_origin"
+    ]
+}
